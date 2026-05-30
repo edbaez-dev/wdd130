@@ -1,7 +1,7 @@
 :root {
-    --primary-color: steelblue;
-    --accent1-color: grey;
-    --accent2-color: white;
+    --primary-color: #1a6b8a;
+    --accent1-color: #2c3e50;
+    --accent2-color: #e8f4f8;
     --body-font: Georgia, serif;
     --heading-font: 'Arial Black', sans-serif;
 }
