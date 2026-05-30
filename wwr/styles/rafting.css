@@ -13,8 +13,8 @@
 }
 
 body {
-    font-family: Roboto, Arial, sans-serif;
-    color: black;
+    font-family: var(--body-font);
+    color: var(--accent1-color);
 }
 
 header,
@@ -27,7 +27,7 @@ footer {
 h1,
 h2 {
     font-family: var(--heading-font);
-    color: black;
+    color: var(--primary-color);
 }
 
 nav,
