@@ -63,7 +63,7 @@ article {
     color: #fff;
 }
 
-.hero article {
+.hero-overlay {
     position: absolute;
     bottom: 20px;
     left: 10px;
@@ -73,7 +73,7 @@ article {
     opacity: 0.9;
 }
 
-.hero article img {
+.hero-overlay img {
     float: right;
     width: 125px;
     margin: 8px;
